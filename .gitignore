@@ -1,0 +1,10 @@
+# Private configuration (contains Banxico token)
+config.json
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Local operating system files
+.DS_Store
+Thumbs.db
